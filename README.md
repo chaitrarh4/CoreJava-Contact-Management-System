@@ -104,6 +104,6 @@ This project helped in understanding:
 
 ## 👨‍💻 Author
 
-**Chaitra H R**
+**Chaitra R H**
 
 GitHub: https://github.com/chaitrarh4
